@@ -14,9 +14,10 @@ and open the template in the editor.
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     </head>
     <body>
-      
+        
         <div class="row">
             <div class="col-sm-1"><?php include('Menu.php');?></div>
+                 
             <div class="col-sm-11"><?php include('home.php');?></div>
         </div>
     </body>
